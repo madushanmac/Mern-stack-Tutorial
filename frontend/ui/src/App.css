@@ -1,0 +1,14 @@
+.showEmployeeDetails {
+    background-color: rgb(249, 249, 249);
+    min-height: 100vh;
+    color: rgb(101, 96, 96);
+}
+
+hr {
+    height: 5px; 
+    width: 80%; 
+    display: flex;
+   margin: auto;
+    background-color: black; 
+    border: none;
+}
